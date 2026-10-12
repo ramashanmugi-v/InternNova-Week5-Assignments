@@ -1,0 +1,4 @@
+Student ID: 101
+Student Name: Ramashanmugi
+Course: CSE AI & ML
+Marks: 95
